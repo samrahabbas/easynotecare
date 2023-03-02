@@ -1,0 +1,93 @@
+[
+    {
+        "id": 0,
+        "name": "Assualtive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-30",
+        "type": "Behavior"
+    },
+    {
+        "id": 1,
+        "name": "Speech",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-02-02",
+        "type": "Behavior"
+    },
+    {
+        "id": 2,
+        "name": "Obsessive-Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2022-05-30",
+        "type": "Behavior"
+    },
+    {
+        "id": 3,
+        "name": "Property Destruction",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-20",
+        "type": "Behavior"
+    },
+    {
+        "id": 4,
+        "name": "Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2023-05-24",
+        "type": "Intervention"
+    },
+    {
+        "id": 5,
+        "name": "Mental Health",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2023-02-25",
+        "type": "Intervention"
+    },
+    {
+        "id": 6,
+        "name": "Non-Compliant",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "type": "Intervention"
+    },
+    {
+        "id": 10,
+        "name": "Compliant",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-22",
+        "type": "Antecedent"
+    },
+    {
+        "id": 11,
+        "name": "Positive Behavior",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "type": "Antecedent"
+    },
+    {
+        "id": 12,
+        "name": "Passive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "type": "Antecedent"
+    },
+    {
+        "id": 13,
+        "name": "Proactive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-09-01",
+        "type": "Antecedent"
+    },
+    {
+        "id": 14,
+        "name": "Reactive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "type": "Antecedent"
+    },
+    {
+        "id": 15,
+        "name": "Practical",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "type": "Antecedent"
+    }
+]

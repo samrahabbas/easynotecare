@@ -1,0 +1,209 @@
+[
+    {
+        "id": 0,
+        "name": "Aggression to Clients",
+        "category": "Assualtive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-30",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 1,
+        "name": "Aggression to Staff",
+        "category": "Assualtive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2022-09-31",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 2,
+        "name": "Animal Cruelty",
+        "category": "Assualtive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-12-12",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 3,
+        "name": "False Accusations",
+        "category": "Speech",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-02-02",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 4,
+        "name": "Disorganized Thoughts",
+        "category": "Mental Health",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-03-31",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 5,
+        "name": "Restlessness",
+        "category": "Mental Health",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-30",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 6,
+        "name": "Finger Rolling",
+        "category": "Obsessive-Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2022-05-30",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 7,
+        "name": "Lint Picking",
+        "category": "Obsessive-Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2020-05-30",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 8,
+        "name": "Clothing",
+        "category": "Property Destruction",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-20",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 9,
+        "name": "Furniture",
+        "category": "Property Destruction",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-23",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 10,
+        "name": "Slaming Doors",
+        "category": "Property Destruction",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-05-24",
+        "description": "Description Sample",
+        "type": "Behavior"
+    },
+    {
+        "id": 11,
+        "name": "Blocking",
+        "category": "Speech",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-09-25",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 12,
+        "name": "Minimize Interaction",
+        "category": "Obsessive-Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2023-05-24",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 13,
+        "name": "Planned Ignoring",
+        "category": "Obsessive-Compulsive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2011-12-12",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 14,
+        "name": "Isolation",
+        "category": "Mental Health",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2023-02-25",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 15,
+        "name": "Choice Selection",
+        "category": "Assualtive",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-12-30",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 16,
+        "name": "Exercise",
+        "category": "Non-Compliant",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "description": "Description Sample",
+        "type": "Intervention"
+    },
+    {
+        "id": 17,
+        "name": "Delaying",
+        "category": "Non-Compliant",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-22",
+        "description": "Description Sample",
+        "type": "Antecedent"
+    },
+    {
+        "id": 18,
+        "name": "Cleaning Room",
+        "category": "Positive Behavior",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "description": "Description Sample",
+        "type": "Antecedent"
+    },
+    {
+        "id": 19,
+        "name": "Apologize",
+        "category": "Positive Behavior",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "description": "Description Sample",
+        "type": "Antecedent"
+    },
+    {
+        "id": 20,
+        "name": "Refusal",
+        "category": "Non-Compliant",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-09-01",
+        "status": "Active",
+        "type": "Antecedent"
+    },
+    {
+        "id": 21,
+        "name": "Eating Slow",
+        "category": "Positive Behavior",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2021-11-20",
+        "description": "Description Sample",
+        "type": "Antecedent"
+    },
+    {
+        "id": 22,
+        "name": "Cutting Self",
+        "category": "Self Injurious",
+        "enteredBy": "EasyNoteCare System Admin",
+        "lastUpdatedBy": "EasyNoteCare System Admin on 2020-11-20",
+        "description": "Description Sample",
+        "type": "Antecedent"
+    }
+]

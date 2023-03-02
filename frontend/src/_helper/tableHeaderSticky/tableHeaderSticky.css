@@ -1,0 +1,42 @@
+.stickhyHeaderTable {
+    /* height: 400px; */
+    overflow: scroll;
+}
+
+.stickhyHeaderTable thead tr:nth-child(1) th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.stickhyHeaderTable thead th:nth-child(2) {
+    left: -30px;
+    /* left: 0px; */
+    z-index: 11 !important;
+}
+
+.stickhyHeaderTable td:nth-child(2) {
+    position: sticky;
+    /* left: 0px; */
+    left: -30px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #c9ccda !important; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #bababb !important; 
+}
